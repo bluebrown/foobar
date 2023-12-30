@@ -7,6 +7,6 @@ metadata:
 spec:
   containers:
   - name: nginx
-    image: docker.io/bluebrown/busybox:20231230150010 # kobold: foo bar
+    image: docker.io/bluebrown/busybox:20231230150114 # kobold: foo bar
     ports:
     - containerPort: 80
