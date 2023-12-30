@@ -7,6 +7,6 @@ metadata:
 spec:
   containers:
   - name: nginx
-    image: docker.io/bluebrown/busybox:v1 # kobold: tag: v1; type: exact
+    image: docker.io/bluebrown/busybox:v1 # kobold: tag: v2; type: exact
     ports:
     - containerPort: 80
