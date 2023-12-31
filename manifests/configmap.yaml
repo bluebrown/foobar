@@ -3,8 +3,8 @@ kind: ConfigMap
 metadata:
   name: game-demo
   annotations:
-    grw.kobold.sh/local-path: '/tmp/kioutil-3219639970'
-    grw.kobold.sh/pkg-path: '/tmp/kioutil-3219639970/manifests'
+    grw.kobold.sh/local-path: '/tmp/kioutil-946963577'
+    grw.kobold.sh/pkg-path: '/tmp/kioutil-946963577/manifests'
 data:
   player_initial_lives: "3"
   ui_properties_file_name: "user-interface.properties"

@@ -4,8 +4,8 @@ metadata:
   name: nginx
   annotations:
     foo: 'cool huh?'
-    grw.kobold.sh/local-path: '/tmp/kioutil-3219639970'
-    grw.kobold.sh/pkg-path: '/tmp/kioutil-3219639970/manifests'
+    grw.kobold.sh/local-path: '/tmp/kioutil-946963577'
+    grw.kobold.sh/pkg-path: '/tmp/kioutil-946963577/manifests'
 spec:
   containers:
   - name: nginx
