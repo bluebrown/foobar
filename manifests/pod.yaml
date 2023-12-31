@@ -7,6 +7,6 @@ metadata:
 spec:
   containers:
   - name: nginx
-    image: docker.io/bluebrown/busybox:v1.6@sha256:220611111e8c9bbe242e9dc1367c0fa89eef83f26203ee3f7c3764046e02b248 # kobold: tag: ^1; type: semver
+    image: docker.io/bluebrown/busybox:v1.7@sha256:220611111e8c9bbe242e9dc1367c0fa89eef83f26203ee3f7c3764046e02b248 # kobold: tag: ^1; type: semver
     ports:
     - containerPort: 80
